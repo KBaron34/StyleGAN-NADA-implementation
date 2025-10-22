@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Data & Models
+data/
+datasets/
+outputs/
+logs/
+checkpoints/
+models/
+*.pth
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
